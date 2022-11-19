@@ -75,3 +75,5 @@ E:\Desenvolvimento\C#\ASP.NET\Blog\obj\Debug\net6.0\refint\Blog.dll
 E:\Desenvolvimento\C#\ASP.NET\Blog\obj\Debug\net6.0\Blog.pdb
 E:\Desenvolvimento\C#\ASP.NET\Blog\obj\Debug\net6.0\Blog.genruntimeconfig.cache
 E:\Desenvolvimento\C#\ASP.NET\Blog\obj\Debug\net6.0\ref\Blog.dll
+E:\Desenvolvimento\C#\ASP.NET\Blog\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Desenvolvimento\C#\ASP.NET\Blog\bin\Debug\net6.0\SecureIdentity.dll
